@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url(img/Background.png);
+    background-image: url("img/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -73,7 +73,7 @@ body {
 
 .secundario {
     align-items: center;
-    margin: 0 10em;
+    margin: 0 6em;
 }
 
 .descricao__titulo {
@@ -109,6 +109,7 @@ body {
 
 .dispositivos__titulo{
     font-size: 48px;
+    color: var(--branco-principal);
 }
 
 .lista__item{
@@ -118,29 +119,31 @@ body {
 
 .rodape{
     text-align: center;
+    margin: 5em 3em;
 }
 
 .rodape__logo{
-    margin-bottom: 2em;
+    width: 20%;
 }
 
 .rodape__lista{
     display: flex;
     justify-content: center;
-    list-style: none;
-    margin: 0 1em 0 1em ;
+    list-style-type: none;
+    margin-top: 1em;
 }
 
-.lista__link{
-    margin: 1em;
+.lista__link a{
+    text-decoration: none;
+    color: var(--branco-principal);
+    margin-left: 1em;
 }
 
 .rodape__texto{
-    text-align: center;
+    color: var(--cinza-secundario);
     font-size: 14px;
-    color: var(--branco-principal);
-    padding: 1em 0;
-    margin: 0 2em 0 2em ;
+    margin: 1em 0;
+
 }
 
 footer a{
