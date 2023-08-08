@@ -1,6 +1,31 @@
-<!DOCTYPE html>
-<html>
-    <h3>Bem Vindo</h3>
-    <p>Este repositório tem o propósito de apresentar os códigos dos Cursos de HTML5 e CCS3 feitos na plataforma alura.</p>
-    <p>Diferente do curso feito anteriormente, que tinha o propósito de iniciar os estudos em HTML e CSS, este curso busca aprimorar os estudos em programação web e aplicar os estudos já realizados previamente.</p>
-</html>
+<h1 align="center">
+
+<img src="Github/Logo.png" alt="logo da Alura Plus" class="container__imagem">
+
+</h1>
+
+<div align="center">
+     <h3>Este projeto se trata de um site de livros da alura, ele foi construído levando em consideração o modelo de desenvolvimento  "Mobile Frist"📲.</h3>
+    <a href="https://github.com/MrR4ngel" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=Author&message=Mateus Rangel&color=DAA520&style=for-the-badge" target="_blank" alt="Mateus Rangel">
+    </a>
+    <img src="https://img.shields.io/github/languages/count/MrR4ngel/AluraPlus?color=DAA520&style=for-the-badge" alt="Linguagens">
+</div>
+
+###
+
+# 🔨 Tecnologias
+
+💻 HTML / CSS
+
+###
+
+# 📸 Veja:
+
+<div align="center">
+
+<img src="Github/img1.png" class="container__imagem">
+<img src="Github/img2.png" class="container__imagem">
+<img src="Github/img3.png" class="container__imagem">
+<img src="Github/img4.png" class="container__imagem">
+<img src="Github/img5.png" class="container__imagem">
