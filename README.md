@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-     <h3>Este projeto se trata de um site de livros da alura, ele foi construído levando em consideração o modelo de desenvolvimento  "Mobile Frist"📲.</h3>
+     <h3>Este projeto se trata de um site de cursos da alura, ele foi construído utilizando HTML5 e CSS3📲.</h3>
     <a href="https://github.com/MrR4ngel" target="_blank">
       <img src="https://img.shields.io/static/v1?label=Author&message=Mateus Rangel&color=DAA520&style=for-the-badge" target="_blank" alt="Mateus Rangel">
     </a>
@@ -21,6 +21,7 @@
 ###
 
 # 📸 Veja:
+https://mrr4ngel.github.io/AluraPlus/
 
 <div align="center">
 
